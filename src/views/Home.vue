@@ -19,7 +19,7 @@
             </v-flex>
           </v-layout>
         </v-card>
-        <span>{{show.title}} | {{show.type}} | Episode {{show.episode}} | {{show.status}}</span>
+        <span>{{show.title}} | {{show.type}} | Episode :{{show.episode}} | {{show.status}}</span>
         </v-tooltip>
       </v-flex>
     </v-layout>
