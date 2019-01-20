@@ -2,7 +2,7 @@
   <v-app>
     <Banner/>
     <div>
-      <v-toolbar  color="primary mt-4" dark height="60px">
+      <v-toolbar color="primary mt-4" dark height="60px">
         <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer = !drawer"></v-toolbar-side-icon>
         <img src="./assets/ASW.png" alt="LOGO" height="80px" style="margin-left:-10px">
         <v-toolbar-items class="hidden-sm-and-down">
